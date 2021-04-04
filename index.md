@@ -25,3 +25,12 @@ My priorities:
 2. School
 3. Job
 4. Extracurriculars
+
+
+Life Goals:
+- [x] Finish high school
+- [X] Get into college
+- [X] Take CSE 110!
+- [ ] Graduate college
+- [ ] Get a great job as a Software Engineer!
+- [ ] Create my own software product
