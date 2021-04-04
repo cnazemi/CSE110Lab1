@@ -1,5 +1,5 @@
 
-<img src="compsci.jfif" class="img-responsive" alt=""> </div>
+<img src="compsci.jfif" class="img-responsive" alt="">
 
 # Cameron Nazemi
 ## ***Welcome to my Github Page!***
@@ -54,3 +54,6 @@ Life Goals:
 - [ ] Graduate college
 - [ ] Get a great job as a Software Engineer!
 - [ ] Create my own software product
+
+
+<img src="circuit.jpg" class="img-responsive" alt="">
