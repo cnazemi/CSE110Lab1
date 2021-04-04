@@ -7,3 +7,6 @@ My favorite quote:
 
 I'm an aspiring *Software Engineer* and develop apps that are now on the App Store!
 Here is a link to those: [Cameron's Apps](https://apps.apple.com/us/developer/cameron-nazemi/id1470818209).
+
+
+[Check out this CS MEME!](CSE110Lab1/meme.PNG)
