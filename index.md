@@ -1,3 +1,6 @@
+
+<img src="compsci.jfif" class="img-responsive" alt=""> </div>
+
 # Cameron Nazemi
 ## ***Welcome to my Github Page!***
 
@@ -12,10 +15,6 @@ Here is a link to those: [Cameron's Apps](https://apps.apple.com/us/developer/ca
 [Check out this funny CS MEME!](meme.PNG)
 
 
-### A little about me:
-
-I'm a junior Computer Science student who is very passionate about software engineering and development. I'm seeking to apply the Computer Science skills developed during my experiences to help improve the world we live in.
-
 This is my first Github Pages and to do it, I had to use git operations such as:
 ```
 git clone
@@ -26,6 +25,11 @@ git push
 ```
 
 Using these operations help refresh my mind on version control! Anyways back to me...
+
+
+### A little about *me*:
+
+I'm a junior Computer Science student who is very passionate about software engineering and development. I'm seeking to apply the Computer Science skills developed during my experiences to help improve the world we live in.
 
 
 My hobbies:
