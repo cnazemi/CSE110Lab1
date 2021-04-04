@@ -48,9 +48,9 @@ My priorities:
 
 
 Life Goals:
-- [x] Finish high school
-- [X] Get into college
-- [X] Take CSE 110!
+- [x] ~~Finish high school~~
+- [X] ~~Get into college~~
+- [X] ~~Take CSE 110!~~
 - [ ] Graduate college
 - [ ] Get a great job as a Software Engineer!
 - [ ] Create my own software product
