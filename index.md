@@ -9,4 +9,19 @@ I'm an aspiring *Software Engineer* and develop apps that are now on the App Sto
 Here is a link to those: [Cameron's Apps](https://apps.apple.com/us/developer/cameron-nazemi/id1470818209).
 
 
-[Check out this CS MEME!](CSE110Lab1/meme.PNG)
+[Check out this CS MEME!](meme.PNG)
+
+
+My hobbies:
+- Making apps
+- Playing Basketball
+- Watching Movies
+- Making music
+- Playing Rocket League
+
+
+My priorities:
+1. Family
+2. School
+3. Job
+4. Extracurriculars
